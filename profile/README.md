@@ -9,6 +9,7 @@ Saqal challenges provide unique experience as they’re designed to fill untouch
 - Saqal challenges should help to use real-life tools for communication, documentation and collaboration.
 - Saqal challenges should help to follow technical best practices such clean architecture, automation, testing, and documentation.
 - Saqal challenges focus on code quality more than nice looking screens.
+
 **Note: Don’t be overwhelmed! It will be covered piece by piece.**
 
 ### What is the expected outcome?
