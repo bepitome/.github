@@ -20,4 +20,4 @@ Saqal challenges hit different important areas from soft skills to proper deploy
 1. [Basic Authentication](https://github.com/bepitome/flutter-basic-authentication-challenge).
 
 ---
-If you have interest in physical meeting with tech leaders and advisories, technical support, monthly seminars, and a lot. Please join our community [Slack](https://join.slack.com/t/saqal/shared_invite/zt-1fe5j5iyu-f0vjIGtTKMnY0WRcYBKllg).
+If you have interest in physical meeting with tech leaders and advisories, technical support, monthly seminars, and a lot. Please join our community [Discord](https://discord.gg/pEQt6Z9QES).
