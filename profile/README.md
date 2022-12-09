@@ -19,6 +19,8 @@ Saqal challenges hit different important areas from soft skills to proper deploy
 ### Challenges
 1. [Basic Authentication](https://github.com/bepitome/flutter-basic-authentication-challenge).
 2. [File Storage](https://github.com/bepitome/flutter-file-storage-challenge).
+3. 2FA & SMS. (coming soon)
+4. Payment Gateway. (coming soon)
 
 ---
 If you have interest in physical meeting with tech leaders and advisories, technical support, monthly seminars, and a lot. Please join our community [Discord](https://discord.gg/pEQt6Z9QES).
